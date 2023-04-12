@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/clipboard_1101-781.jpg?w=360&t=st=1681177216~exp=1681177816~hmac=aaba6e64c7cf34a33ea08315d7c91e847e61493e8917ee9aa8d0ce18e950e4f8);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 700px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    height: 800px;
+    width: auto;
+    padding: 10px;
+}
+.boxtwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+input{
+    align-self: center;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 5px;
+    width: 325px;
+}
+textarea{
+    align-self: center;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 5px;
+}
+.buttoN{
+    align-self: center;
+}
+button{
+    justify-content: center;
+    align-self: center;
+    color: beige;
+    background-color: black;
+    border-radius: 5px;
+}
+p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    
+}
